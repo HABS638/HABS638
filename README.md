@@ -5,7 +5,6 @@
 
 
 
-# 👋 Bonjour, je suis Habsatou Laoualy Chaibou  
 
 🎓 Diplômée en **Ingénierie Mathématique et Data Science** à l’Université de Haute-Alsace (France)  
 🤖 Spécialisée en **intelligence artificielle**, **vision par ordinateur** et **apprentissage profond**  
