@@ -5,14 +5,13 @@
 
 
 
-
-🎓 Diplômée en **Ingénierie Mathématique et Data Science** à l’Université de Haute-Alsace (France)  
-🤖 Spécialisée en **intelligence artificielle**, **vision par ordinateur** et **apprentissage profond**  
-💡 J’aime transformer des données brutes en modèles explicables et utiles à la recherche ou à l’industrie.  
+Diplômée en **Ingénierie Mathématique et Data Science** à l’Université de Haute-Alsace (France)  
+Spécialisée en **intelligence artificielle**, **vision par ordinateur** et **apprentissage profond**  
+J’aime transformer des données brutes en modèles explicables et utiles à la recherche ou à l’industrie.  
 
 ---
 
-## 🚀 Domaines de compétence  
+## Domaines de compétence  
 
 **Langages & Outils**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,9 +41,9 @@
 
 ---
 
-## 💼 Projets récents
+##  Projets récents
 
-### 🧠 Prédiction des paramètres électriques des transistors HBT  
+### Prédiction des paramètres électriques des transistors HBT  
 **STMicroelectronics, Crolles (France)**  
 - Prétraitement et optimisation des données : nettoyage, détection d’outliers et structuration  
 - Développement et entraînement d’un **modèle prédictif Random Forest**, testé parmi plusieurs modèles  
@@ -53,7 +52,7 @@
 
 ---
 
-### 🕵️‍♀️ Étude des méthodes de détection d’objets  
+### Étude des méthodes de détection d’objets  
 **Projet de recherche en vision par ordinateur** 
 - Comparaison des approches **YOLO, SSD et R-CNN**  
 - Implémentation de **YOLOv8** pour la détection sur des images locales et la base **COCO**  
@@ -61,7 +60,7 @@
 
 ---
 
-###  Segmentation d’images médicales par apprentissage auto-supervisé  
+### Segmentation d’images médicales par apprentissage auto-supervisé  
 **Projet académique / recherche** —  
 - Développement d’un modèle **ResUNet** pour segmenter des images CT du foie  
 - Intégration de la structure **Max-Tree** et de l’**apprentissage auto-supervisé**  
