@@ -5,8 +5,8 @@
 
 
 
-Diplômée en **Ingénierie Mathématique et Data Science** à l’Université de Haute-Alsace (France)  
-Spécialisée en **intelligence artificielle**, **vision par ordinateur** et **apprentissage profond**  
+Diplômée en **Ingénierie Mathématique et Data Science** à l’Université de Haute-Alsace (France).
+Spécialisée en **intelligence artificielle**, **vision par ordinateur** et **apprentissage profond**.
 J’aime transformer des données brutes en modèles explicables et utiles à la recherche ou à l’industrie.  
 
 ---
@@ -61,7 +61,7 @@ J’aime transformer des données brutes en modèles explicables et utiles à la
 ---
 
 ### Segmentation d’images médicales par apprentissage auto-supervisé  
-**Projet académique / recherche** —  
+**Projet académique / recherche** 
 - Développement d’un modèle **ResUNet** pour segmenter des images CT du foie  
 - Intégration de la structure **Max-Tree** et de l’**apprentissage auto-supervisé**  
 - Amélioration de la précision de segmentation grâce à des représentations hiérarchiques  
@@ -69,7 +69,7 @@ J’aime transformer des données brutes en modèles explicables et utiles à la
 ---
 
 ## En ce moment
-- Je poursuis la création d’un projet de bout en bout, allant de l’ingestion et la préparation des données jusqu’à la mise en production d’un modèle d’intelligence artificielle. Ce projet me permet d’approfondir mes compétences en data engineering, modélisation, et déploiement de solutions IA.*  
+- Je poursuis la création d’un projet de bout en bout, allant de l’ingestion et la préparation des données jusqu’à la mise en production d’un modèle d’intelligence artificielle. Ce projet me permet d’approfondir mes compétences en data engineering, modélisation, et déploiement de solutions IA.
 
 ## 💼 Ouverte aux **opportunités professionnelles** en IA, data science et deep learning   
 
