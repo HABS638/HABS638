@@ -13,7 +13,7 @@ J’aime transformer des données brutes en modèles explicables et utiles à la
 
 ## Domaines de compétence  
 
-**Langages & Outils**  
+**Langages **  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,6 +31,12 @@ J’aime transformer des données brutes en modèles explicables et utiles à la
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
 
+**Data Engineering & Big Data**  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
 
 **Outils & Environnements**  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -44,7 +50,7 @@ J’aime transformer des données brutes en modèles explicables et utiles à la
 ##  Projets récents
 
 ### Prédiction des paramètres électriques des transistors HBT  
-**STMicroelectronics, Crolles (France)**  
+**STMicroelectronics, Crolles**  
 - Prétraitement et optimisation des données : nettoyage, détection d’outliers et structuration  
 - Développement et entraînement d’un **modèle prédictif Random Forest**, testé parmi plusieurs modèles  
 - Meilleure performance : **80 % de précision** pour l’estimation des paramètres électriques  
@@ -71,14 +77,16 @@ J’aime transformer des données brutes en modèles explicables et utiles à la
 ## En ce moment
 - Je poursuis la création d’un projet de bout en bout, allant de l’ingestion et la préparation des données jusqu’à la mise en production d’un modèle d’intelligence artificielle. Ce projet me permet d’approfondir mes compétences en data engineering, modélisation, et déploiement de solutions IA.
 
-## 💼 Ouverte aux **opportunités professionnelles** en IA, data science et deep learning   
+## Ouverte aux **opportunités professionnelles** en IA, data science   
 
 
 
 ---
 
-## 📫 Me contacter  
-💼 [LinkedIn](https://www.linkedin.com/in/habsatou-laoualy-chaibou)  
+## Me contacter  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habsatou-laoualy-chaibou)
+
+  
  
 
 ---
