@@ -77,7 +77,6 @@ J’aime transformer des données brutes en modèles explicables et utiles à la
 ## En ce moment
 - Je poursuis la création d’un projet de bout en bout, allant de l’ingestion et la préparation des données jusqu’à la mise en production d’un modèle d’intelligence artificielle. Ce projet me permet d’approfondir mes compétences en data engineering, modélisation, et déploiement de solutions IA.
 
-## Ouverte aux **opportunités professionnelles** en IA, data science   
 
 
 
